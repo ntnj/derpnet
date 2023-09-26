@@ -1,0 +1,6 @@
+{
+	"name": "DerpNet",
+	"image": "mcr.microsoft.com/devcontainers/go",
+	"capAdd": ["NET_ADMIN"],
+	"runArgs": ["--network=host"]
+}
